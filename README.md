@@ -6,5 +6,6 @@ This project is followed in Udemy by Andrew Mead
 * [NodeJS](https://nodejs.org/)
 * [ExpressJS](https://expressjs.com/)
 * [Heroku](https://dashboard.heroku.com/login)
+* [Handlebars](https://handlebarsjs.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -9,7 +9,7 @@
   <p align="center">
     The Weather app
     <br />
-    <a href="https://saengthong-weather-application.herokuapp.com">View Website</a>
+    <a href="https://saengthong-weather-application.herokuapp.com">View Demo Website</a>
     ·
     <a href="https://github.com/FranKydeSU/nodejs-weather-app/issues">Report Bug</a>
     ·
